@@ -1,0 +1,12 @@
+name = "start"
+main = "src/index.ts"
+compatibility_date = "2022-09-07"
+
+[vars]
+UPSTASH_REDIS_REST_URL="https://global-solid-gar-31347.upstash.io"
+UPSTASH_REDIS_REST_TOKEN="AXpzACQgOTkzNDY2MjktMTcxZi00ZDEzLTgxMTUtM2U1MWY3MWI0M2Y0YjEzYWQ2ODUzMWUzNGYzNWI4MmZlZDdlMzQ0MjJjMjY="
+
+[env.procution.vars]
+
+UPSTASH_REDIS_REST_URL="https://global-solid-gar-31347.upstash.io"
+UPSTASH_REDIS_REST_TOKEN="AXpzACQgOTkzNDY2MjktMTcxZi00ZDEzLTgxMTUtM2U1MWY3MWI0M2Y0YjEzYWQ2ODUzMWUzNGYzNWI4MmZlZDdlMzQ0MjJjMjY="
